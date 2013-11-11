@@ -1,6 +1,6 @@
 # django-remote-admin
 
-A simple API based implementation of django admin.
+A simple API based implementation of django admin. This fork is maintained by GLSS-INC.
 
 There are two components of django remote admin:
 
